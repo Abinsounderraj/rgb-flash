@@ -1,4 +1,4 @@
-# RGB Flash
+#RGB Flash
 
 A ReactJS project to create a flashing RGB light on your browser.
 
